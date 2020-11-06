@@ -1,0 +1,1 @@
+draw_sprite( selBox, playerId, x, y );
